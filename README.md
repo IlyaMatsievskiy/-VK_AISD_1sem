@@ -1,6 +1,7 @@
 # Algorithms and Data Structures
 
-Welcome to my repository for exploring algorithms and data structures! This repository is a collection of implementations and solutions crafted during a three-module course, showcasing a wide range of topics from foundational bitwise operations to complex graph algorithms.
+Welcome to my repository for exploring algorithms and data structures! This repository is a collection of implementations and solutions crafted during a three-module course, showcasing a wide range of topics from foundational bitwise operations to complex graph algorithms. 
+**If you want to read the description in Russian, open README_ru**.
 
 ## 📚 Course Modules Overview
 
